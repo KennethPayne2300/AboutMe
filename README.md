@@ -38,6 +38,10 @@ My nighttime routine includes
 [Abraham Lincoln][1]<br>
 <kbd><img src="img/AbrahamLincoln.jpg" width="100px"></kbd>
 
-
-
-Markdown Tuturial
+## Terms
+| Terms | Definitions | My Meaning |
+| :---- | :---------: | ---------: |
+| Vivid | Powerful, intensive color; Clear precise language | Invoking strong emotion in |
+| Oriflamme | A knight's battle standard | Your logo, icon |
+| Eccentirc | Of unconvential and slightly strange character | Someone who is odd but cool |
+| Supine | lying face upward; failing to act | other term for coward |
